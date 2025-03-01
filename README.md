@@ -1,6 +1,7 @@
 # End-to-End DevOps Implementation on an E-Commerce Project (OpenTelemetry Astronomy Shop)
 ![image](https://github.com/user-attachments/assets/b91e538f-8428-439e-8b79-78f69ceaa132)
 ![image](https://github.com/user-attachments/assets/62ec11ec-87c8-4d78-b5ac-de40e8b9cbc3)
+https://opentelemetry.io/docs/demo/architecture/
 
 
 
