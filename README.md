@@ -1,4 +1,5 @@
 # End-to-End DevOps Implementation on an E-Commerce Project (OpenTelemetry Astronomy Shop)
+![image](https://github.com/user-attachments/assets/b91e538f-8428-439e-8b79-78f69ceaa132)
 
 ## 📌 Overview
 This project demonstrates a full-scale **DevOps implementation** on an **E-Commerce platform** using the OpenTelemetry Astronomy Shop. The goal is to provide hands-on experience in setting up and managing a real-world **microservices-based** application using modern DevOps practices.
